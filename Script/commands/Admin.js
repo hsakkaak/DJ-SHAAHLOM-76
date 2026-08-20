@@ -1,4 +1,4 @@
-const axios = require("axios");
+cconst axios = require("axios");
 const request = require("request");
 const fs = require("fs-extra");
 const moment = require("moment-timezone");
@@ -49,7 +49,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://i.imgur.com/nv59Phe.jpeg")
+ return request("https://i.imgur.com/xJ1teXt.jpeg")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
