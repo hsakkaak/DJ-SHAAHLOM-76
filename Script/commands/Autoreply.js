@@ -37,7 +37,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "Assalamualaikum": "Walaikumassalam❤️‍🩹",
-    "fork": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
+    "fork": "https://github.com/hsakkaak/KING-SHAAHLOM",
     "kiss me": "তুমি পঁচা তোমাকে কিস দিবো না 🤭",
     "thanks": "এতো ধন্যবাদ না দিয়ে আমার বস 𝐒𝐇𝐀𝐀𝐇𝐋𝐎𝐌  রে তোর গার্লফ্রেন্ড টা দিয়ে দে..!🐸🥵",
     "i love you": "মেয়ে হলে আমার বস 𝐒𝐇𝐀𝐀𝐇𝐋𝐎𝐌 এর ইনবক্সে এখুনি গুঁতা দিন🫢😻",
